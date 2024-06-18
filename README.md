@@ -39,7 +39,7 @@ MedScan is an advanced web application that leverages AI to provide automated de
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/ABHAY-05/MEDSCAN.git
+git clone https://github.com/anushkamishra1602/MEDSCAN.git
 cd medscan
 ```
 
